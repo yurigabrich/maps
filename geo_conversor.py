@@ -63,7 +63,7 @@ def invert(string):
 
 def boundless(refGeo, compGeo):
     '''
-	Concatenates both input as one geo coordination.
+	Concatenates both input as one geo coordinate.
     Looks for duplicates and remove it.
     '''
     try:
